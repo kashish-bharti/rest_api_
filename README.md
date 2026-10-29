@@ -1,4 +1,6 @@
-# Dynamic JavaScript DOM Logic & RESTful API Client
+# rest_api_
+
+## Dynamic JavaScript DOM Logic & RESTful API Client
 
 A responsive, high-performance e-commerce catalog and shopping cart web application built with **semantic HTML5, modern CSS3, and vanilla ES6+ JavaScript modules**.
 
